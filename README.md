@@ -1,4 +1,4 @@
-# Mario PSPACE-Hardness Gadgets
+# Mario Hardness Gadgets
 
 This repository is a collection of ips patches and level files
 so you can play the gadgets (pieces of levels) in our proofs that
