@@ -36,3 +36,7 @@ For Super Mario Bros. 3, Super Mario Land 2, and Super Mario World, we provide I
 
 For New Super Mario Bros. Wii,
 we provide level files which can be added to a complete New Super Mario Bros. Wii filestructure to create a playable ROM.
+
+## Videos
+
+Videos of several of our gadgets are also available on our [youtube channel](https://www.youtube.com/@MIT-65440/videos)
