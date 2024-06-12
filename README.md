@@ -17,6 +17,8 @@ we build door gadgets which prove
 > by MIT Hardness Group, Hayashi Ani, Erik D. Demaine, Holden Hall, and Matias Korman\
 > in *Proceedings of the 12th International Conference on Fun with Algorithms* ([FUN 2024](https://sites.google.com/unipi.it/fun2024))
 
+See [playthrough videos on YouTube](https://www.youtube.com/watch?v=hVFrf7LDVVM&list=PLCZQ5yzonfsaxrs9jZ41pgMvK4nRHSTXh).
+
 ## Undecidability / RE-completeness
 
 For New Super Mario Bros. Wii, we build a counter machine,
@@ -25,6 +27,8 @@ proving RE-completeness of a constant-size level in the game.
 > "You Can’t Solve These Super Mario Bros. Levels: Undecidable Mario Games"\
 > by MIT Hardness Group, Hayashi Ani, Erik D. Demaine, Holden Hall, Ricardo Ruiz, and Naveen Venkat\
 > in *Proceedings of the 12th International Conference on Fun with Algorithms* ([FUN 2024](https://sites.google.com/unipi.it/fun2024))
+
+See [playthrough videos on YouTube](https://www.youtube.com/watch?v=Lh_fVDGeck4&list=PLCZQ5yzonfsakI_-C1yQnPTDhneZ6OZ2f).
 
 ## Formats
 
@@ -37,6 +41,6 @@ For Super Mario Bros. 3, Super Mario Land 2, and Super Mario World, we provide I
 For New Super Mario Bros. Wii,
 we provide level files which can be added to a complete New Super Mario Bros. Wii filestructure to create a playable ROM.
 
-## Videos
+## [Videos](https://www.youtube.com/@MIT-65440/playlists)
 
-Videos of several of our gadgets are also available on our [youtube channel](https://www.youtube.com/@MIT-65440/videos)
+Videos of several of our gadgets are also available on our [YouTube channel](https://www.youtube.com/@MIT-65440/playlists)
